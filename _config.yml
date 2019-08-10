@@ -34,7 +34,7 @@ timezone: Europe/Rome # see https://en.wikipedia.org/wiki/List_of_tz_database_ti
 ## => Author and Social
 ##############################
 author: Michele Peroni
-  type      : person # "person" (default), "organization"
+type      : # "person" (default), "organization"
   name      : Michele
   url       :
   avatar    : # path or url of avatar image (square)
